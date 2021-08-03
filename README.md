@@ -1,0 +1,1 @@
+This is Od-lavso's first git project
